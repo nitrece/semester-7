@@ -9,3 +9,5 @@ Courses:
 - [Mobile Communication](https://github.com/nitrece/mobile-communication)
 - [Mobile Communication Laboratory](https://github.com/nitrece/mobile-communication-laboratory)
 - [Internship: Smart Grid Monitoring](https://github.com/nitrece/smart-grid-monitoring)
+
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/semester-7)
